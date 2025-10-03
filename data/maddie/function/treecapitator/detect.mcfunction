@@ -1,0 +1,13 @@
+scoreboard objectives add break_oak_log minecraft.mined:oak_log
+scoreboard objectives add break_spruce_log minecraft.mined:spruce_log
+scoreboard objectives add break_birch_log minecraft.mined:birch_log
+scoreboard objectives add break_jungle_log minecraft.mined:jungle_log
+scoreboard objectives add break_acacia_log minecraft.mined:acacia_log
+scoreboard objectives add break_dark_oak_log minecraft.mined:dark_oak_log
+scoreboard objectives add break_mangrove_log minecraft.mined:mangrove_log
+scoreboard objectives add break_cherry_log minecraft.mined:cherry_log
+scoreboard objectives add break_crimson_stem minecraft.mined:crimson_stem
+scoreboard objectives add break_warped_stem minecraft.mined:warped_stem
+scoreboard objectives add break_pale_oak_log minecraft.mined:pale_oak_log
+scoreboard objectives add break_azalea_log minecraft.mined:azalea
+scoreboard objectives add break_flowering_azalea_log minecraft.mined:flowering_azalea
