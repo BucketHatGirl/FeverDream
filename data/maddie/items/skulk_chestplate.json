@@ -1,0 +1,15 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "minecraft:item/netherite_chestplate",
+    "tints": [
+      {
+        "type": "minecraft:dye",
+        "value": 16742400,
+        "default": 2367281
+      }
+    ]
+  },
+  "hand_animation_on_swap": false,
+  "oversized_in_gui": false
+}
