@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
+    "minecraft:nether_gold_ore",
     "#minecraft:diamond_ores",
     "#minecraft:coal_ores",
     "#minecraft:gold_ores",
